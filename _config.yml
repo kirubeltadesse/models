@@ -1,9 +1,10 @@
 remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
 
-title: Jeremy Howard
+title: Kirubel Tadesse 
 description: Some basic examples of client interfaces to a computer vision API
 
 author:
-  name: Jeremy Howard
+  name: Kirubel Tadesse 
